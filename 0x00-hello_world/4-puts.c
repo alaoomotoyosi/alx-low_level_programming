@@ -1,6 +1,3 @@
-DOWN BELOW I'VE WRITTEN THE CODES FOR THE LAST 3 TASKS 
-NOTE:WATCH THE WHOLE VIDEO TO KNOW WHICH COODE GOES WHERE DONT SKIP
-
 
 #include <stdio.h>
 
@@ -16,4 +13,3 @@ int main(void)
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
-
